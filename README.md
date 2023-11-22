@@ -69,11 +69,21 @@ Historia :"How can I stay away from this? If I don't stop from you now, you will
 Eren: "Yes, I will"
 
 Historia: "Then I can't. If I don't stop you right I won't be able to apologize to Ymir."
-Eren : "You can"
-<!-- Historia: "I won't"
-Eren : "Then I will need to kill you." -->
-Historia : "Why !? Why would you do this, Eren?"
+(after a moment of silence)
+Eren : "You won't"
+
+Historia : "huh?"
+
+Eren : "You won't be able to apologize to her anymore!"
+
+after a sudden realization of Ymir's death Historia was deeply saddened, tears started flowing. 
+...
+
+Eren : "Do you understand now? I want you to be silent this time. I don't want you to be involved in this."
+Historia  while having tears: "Why !? Why would you do this, Eren?" 
 Eren: "Because you are the worst girl that saved me that day ..."
+
+Historia started to remember all those words Ymir said.
 
 ...
 ...
